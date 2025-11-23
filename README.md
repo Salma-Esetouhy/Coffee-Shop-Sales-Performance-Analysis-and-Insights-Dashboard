@@ -4,6 +4,8 @@ A data-driven exploration of sales performance, product demand, and customer beh
 To analyze coffee shop sales data to uncover key trends, customer behavior patterns, and product performance insights for improved business decision-making.
 ---------------------------------------------------------------------------------------------------
 🔍 Key Features of the Analysis
+
+- <a href="https://github.com/Salma-Esetouhy/Coffee-Shop-Sales-Performance-Analysis-and-Insights-Dashboard/blob/main/Coffee%20Shop%20Sales.xlsx">Dataset</a>
 1. Sales & Revenue Trends
 
 Total monthly revenue from January to June
@@ -48,6 +50,4 @@ Excel for dashboards, pivot tables, and visualizations
 
 Data cleaning & structuring in spreadsheet format
 
-Descriptive analytics and summary statistics
----------------------------------------------------------------
 
