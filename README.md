@@ -51,4 +51,4 @@ Excel for dashboards, pivot tables, and visualizations
 Data cleaning & structuring in spreadsheet format
 
 - Dashboard interaction <a href=https://github.com/Salma-Esetouhy/Coffee-Shop-Sales-Performance-Analysis-and-Insights-Dashboard/blob/main/Screenshot%202025-11-23%20121107.png>View Dashboard</a>
-- Dashboard interaction <a hrefhttps://github.com/Salma-Esetouhy/Coffee-Shop-Sales-Performance-Analysis-and-Insights-Dashboard/blob/main/Screenshot%202025-11-23%20121150.png>View Dashboard</a>
+- Dashboard interaction <a hrefhttps://github.com/Salma-Esetouhy/Coffee-Shop-Sales-Performance-Analysis-and-Insights-Dashboard/blob/main/Screenshot%202025-11-23%20121150.png>View Dashboard2</a>
