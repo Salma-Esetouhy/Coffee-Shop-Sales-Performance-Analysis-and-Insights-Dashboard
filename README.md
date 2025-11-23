@@ -54,6 +54,7 @@ Data cleaning & structuring in spreadsheet format
 - Dashboard interaction <a href=https://github.com/Salma-Esetouhy/Coffee-Shop-Sales-Performance-Analysis-and-Insights-Dashboard/blob/main/Screenshot%202025-11-23%20121150.png>View Dashboard2</a>
 
 <img width="769" height="460" alt="Screenshot 2025-11-23 121107" src="https://github.com/user-attachments/assets/943bdbbf-e8a2-4d67-86da-038a252e1e1c" />
-<img width="794" height="340" alt="image" src="https://github.com/user-attachments/assets/e86d7f37-50c2-455b-a562-1624314b6792" />
+<img width="794" height="340" alt="image" src="https://github.com/user-attachments/assets/afce78b8-ae9b-48a2-a914-d468f5451892" />
+
 
 
