@@ -1,2 +1,53 @@
 # Coffee-Shop-Sales-Performance-Analysis-and-Insights-Dashboard
 A data-driven exploration of sales performance, product demand, and customer behavior across multiple coffee shop locations.
+✔ Objective
+To analyze coffee shop sales data to uncover key trends, customer behavior patterns, and product performance insights for improved business decision-making.
+---------------------------------------------------------------------------------------------------
+🔍 Key Features of the Analysis
+1. Sales & Revenue Trends
+
+Total monthly revenue from January to June
+
+Comparison of performance across each store location
+
+Line charts illustrating revenue growth over time
+
+2. Customer Behavior Insights
+
+Transactions by day of week
+
+Transactions by hour of day to identify peak traffic periods
+
+3. Product Performance
+
+Transactions by product category (Coffee, Tea, Bakery, etc.)
+
+Top 15 best-selling products including revenue contribution
+
+Identification of high-demand vs. low-demand items
+----------------------------------------------------------------------
+🛠 Dataset Information
+
+The dataset includes:
+
+Transaction date & time
+
+Store location
+
+Product details (category, type, price)
+
+Quantity purchased
+
+Revenue per transaction
+
+This enables comprehensive analysis of both operational performance and customer buying patterns.
+-------------------------------------------------------------
+📈 Tools & Technologies
+
+Excel for dashboards, pivot tables, and visualizations
+
+Data cleaning & structuring in spreadsheet format
+
+Descriptive analytics and summary statistics
+---------------------------------------------------------------
+
